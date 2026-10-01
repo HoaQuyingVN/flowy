@@ -12,7 +12,7 @@
   "dependencies": {
     "@yarnpkg/lockfile": "^1.1.0",
     "axios": "^1.6.5",
-    "chalk": "^5.3.0",
+    "chalk": "^6.0.0",
     "node-fetch": "^3.3.1",
     "semver": "^7.5.4",
     "semver-utils": "^1.1.4"
